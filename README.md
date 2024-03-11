@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Murtaza</h1>
-<h3 align="center">Modern Web App and Frontend developer</h3>
+<h3 align="center">Full Stack Modern Web Apps Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmedgmurtaza" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedgmurtaza?logo=twitter&style=for-the-badge" alt="ahmedgmurtaza" /></a> </p>
 
