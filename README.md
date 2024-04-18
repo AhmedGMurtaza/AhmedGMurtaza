@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedgmurtaza" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedgmurtaza?logo=twitter&style=for-the-badge" alt="ahmedgmurtaza" /></a> </p>
 
-- 🌱 I’m currently learning and Building SAAS project using  **Springboot, and Nextjs**
+- 🌱 I’m currently learning and Building SAAS project using  **Nextjs14, MongoDB and TailwindUI**
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/ahmedgmurtaza](https://codepen.io/ahmedgmurtaza)
 
