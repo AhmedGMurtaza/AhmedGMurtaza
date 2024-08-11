@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently Building SAAS project using  **Nextjs14, MongoDB, Stripe and TailwindUI**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/ahmedgmurtaza](https://codepen.io/ahmedgmurtaza)
-
 - 📝 I regularly write articles on [https://dev.to/ahmedgmurtaza](https://dev.to/ahmedgmurtaza)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Angular and everything Frontend **
 
 - 📫 How to reach me **ahmed.gmurtaza@hotmail.com**
 
