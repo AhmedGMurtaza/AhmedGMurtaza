@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedgmurtaza" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedgmurtaza?logo=twitter&style=for-the-badge" alt="ahmedgmurtaza" /></a> </p>
 
-- 🌱 I’m currently Building SAAS project using  **Nextjs14, MongoDB, Stripe and TailwindUI**
+- 🌱 I have built arabicworksheet.com and working on my other SAAS Apps**
 
-- 📝 I regularly write articles on [https://dev.to/ahmedgmurtaza](https://dev.to/ahmedgmurtaza)
+- 📝 I occasionally write articles on [https://dev.to/ahmedgmurtaza](https://dev.to/ahmedgmurtaza)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Angular and everything Frontend **
+- 💬 Ask me about **JavaScript, React, Nextjs, SAAS, MVP and everything JS **
 
 - 📫 How to reach me **ahmed.gmurtaza@hotmail.com**
 
