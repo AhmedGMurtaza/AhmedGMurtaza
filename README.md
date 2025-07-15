@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedgmurtaza" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedgmurtaza?logo=twitter&style=for-the-badge" alt="ahmedgmurtaza" /></a> </p>
 
-- 🌱 I have built arabicworksheet.com and working on my other SAAS Apps**
+- 🌱 Building https://arabicworksheet.com and working on my other SAAS Apps**
 
 - 📝 I occasionally write articles on [https://dev.to/ahmedgmurtaza](https://dev.to/ahmedgmurtaza)
 
